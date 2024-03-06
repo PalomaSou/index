@@ -1,0 +1,35 @@
+.cor-menu{
+    background-color: coral;
+    width: 100%;
+    padding: 10px;
+}
+
+.menu img{
+    width: 20px;
+    margin-right: 10px;
+}
+
+.icones{
+    display: inline;
+    float: right;
+}
+
+
+
+.menu-principal h3{
+    display:inline;
+    padding: 13px;
+}
+
+.links-menu a{
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.background{
+
+    height: 400px;
+    background-image: url(../img/flor\ 1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
